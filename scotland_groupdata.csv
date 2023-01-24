@@ -1,0 +1,108 @@
+,patient,sample,type,subtype
+001-1,Patient1,Sample1,Sensitive,Sensitive
+001-2,Patient1,Sample2,Sensitive,Sensitive
+001-3,Patient1,Sample3,Sensitive,Sensitive
+002-1,Patient2,Sample1,Resistant,iR
+002-3,Patient2,Sample2,Resistant,iR
+003-1,Patient3,Sample1,Sensitive,Sensitive Pre-adaptive
+003-2,Patient3,Sample2,Sensitive,Sensitive Pre-adaptive
+003-3,Patient3,Sample3,Sensitive,Sensitive Pre-adaptive
+003-4,Patient3,Sample4,Resistant,aR
+004-1,Patient4,Sample1,Sensitive,Sensitive Pre-adaptive
+004-2,Patient4,Sample2,Sensitive,Sensitive Pre-adaptive
+004-3,Patient4,Sample3,Resistant,aR
+005-1,Patient5,Sample1,Resistant,iR
+005-2,Patient5,Sample2,Resistant,iR
+005-3,Patient5,Sample3,Resistant,iR
+006-1,Patient6,Sample1,Sensitive,Sensitive
+006-2,Patient6,Sample2,Sensitive,Sensitive
+006-3,Patient6,Sample3,Sensitive,Sensitive
+006-4,Patient6,Sample4,Sensitive,Sensitive
+007-1,Patient7,Sample1,Sensitive,Sensitive Pre-adaptive
+007-2,Patient7,Sample2,Sensitive,Sensitive Pre-adaptive
+007-4,Patient7,Sample3,Resistant,aR
+008-1,Patient8,Sample1,Sensitive,Sensitive Pre-adaptive
+008-2,Patient8,Sample2,Sensitive,Sensitive Pre-adaptive
+008-3,Patient8,Sample3,Resistant,aR
+008-4,Patient8,Sample4,Resistant,aR
+009-1,Patient9,Sample1,Sensitive,Sensitive
+009-2,Patient9,Sample2,Sensitive,Sensitive
+009-3,Patient9,Sample3,Sensitive,Sensitive
+010-1,Patient10,Sample1,Sensitive,Sensitive
+010-2,Patient10,Sample2,Sensitive,Sensitive
+010-3,Patient10,Sample3,Sensitive,Sensitive
+011-1,Patient11,Sample1,Sensitive,Sensitive
+011-2,Patient11,Sample2,Sensitive,Sensitive
+011-3,Patient11,Sample3,Sensitive,Sensitive
+011-4,Patient11,Sample4,Sensitive,Sensitive
+012-1,Patient12,Sample1,Sensitive,Sensitive
+012-2,Patient12,Sample2,Sensitive,Sensitive
+013-1,Patient13,Sample1,Sensitive,Sensitive Pre-adaptive
+013-3,Patient13,Sample2,Resistant,aR
+014-1,Patient14,Sample1,Resistant,iR
+014-2,Patient14,Sample2,Resistant,iR
+014-3,Patient14,Sample3,Resistant,iR
+015-1,Patient15,Sample1,Sensitive,Sensitive Pre-adaptive
+015-3,Patient15,Sample2,Resistant,aR
+016-1,Patient16,Sample1,Sensitive,Sensitive Pre-adaptive
+016-2,Patient16,Sample2,Sensitive,Sensitive Pre-adaptive
+016-3,Patient16,Sample3,Resistant,aR
+017-1,Patient17,Sample1,Sensitive,Sensitive Pre-adaptive
+017-2,Patient17,Sample2,Sensitive,Sensitive Pre-adaptive
+017-3,Patient17,Sample3,Sensitive,Sensitive Pre-adaptive
+017-5,Patient17,Sample4,Resistant,aR
+018-2-m,Patient18,Sample1,Resistant,aR
+018-3,Patient18,Sample2,Resistant,aR
+019-1,Patient19,Sample1,Sensitive,Sensitive Pre-adaptive
+019-2,Patient19,Sample2,Sensitive,Sensitive Pre-adaptive
+019-4,Patient19,Sample3,Resistant,aR
+019-5-m,Patient19,Sample4,Resistant,aR
+020-1,Patient20,Sample1,Sensitive,Sensitive Pre-adaptive
+020-2,Patient20,Sample2,Sensitive,Sensitive Pre-adaptive
+020-3,Patient20,Sample3,Resistant,aR
+020-4-m,Patient20,Sample4,Resistant,aR
+021-2,Patient21,Sample1,Sensitive,Sensitive Pre-adaptive
+021-4-m,Patient21,Sample2,Resistant,aR
+022-1,Patient22,Sample1,Sensitive,Sensitive Pre-adaptive
+022-2,Patient22,Sample2,Sensitive,Sensitive Pre-adaptive
+022-3-m,Patient22,Sample3,Resistant,aR
+023-1,Patient23,Sample1,Sensitive,Sensitive Pre-adaptive
+023-3-m,Patient23,Sample2,Resistant,aR
+024-1,Patient24,Sample1,Sensitive,Sensitive Pre-adaptive
+024-2,Patient24,Sample2,Sensitive,Sensitive Pre-adaptive
+024-4-m,Patient24,Sample3,Resistant,aR
+025-1,Patient25,Sample1,Resistant,aR
+025-2-m,Patient25,Sample2,Sensitive,Sensitive Pre-adaptive
+025-5-m,Patient25,Sample3,Resistant,aR
+026-1,Patient26,Sample1,Sensitive,Sensitive Pre-adaptive
+026-2-m,Patient26,Sample2,Resistant,aR
+026-3,Patient26,Sample3,Resistant,aR
+027-1,Patient27,Sample1,Resistant,aR
+027-2,Patient27,Sample2,Resistant,aR
+027-3,Patient27,Sample3,Resistant,aR
+027-4,Patient27,Sample4,Resistant,aR
+028-1,Patient28,Sample1,Sensitive,Sensitive Pre-adaptive
+028-2,Patient28,Sample2,Resistant,aR
+028-3-m,Patient28,Sample3,Resistant,aR
+028-4,Patient28,Sample4,Resistant,aR
+029-1P-1,Patient29,Sample1,Sensitive,Sensitive
+029-2P-1,Patient29,Sample2,Sensitive,Sensitive
+029-3P-1,Patient29,Sample3,Sensitive,Sensitive
+029-4-m,Patient29,Sample4,Sensitive,Sensitive
+030-1P-2,Patient30,Sample1,Sensitive,Sensitive
+030-2P-1,Patient30,Sample2,Sensitive,Sensitive
+030-3-m,Patient30,Sample3,Sensitive,Sensitive
+031-1P-1,Patient31,Sample1,Sensitive,Sensitive
+031-2P-1,Patient31,Sample2,Sensitive,Sensitive
+031-3-m,Patient31,Sample3,Sensitive,Sensitive
+032-1P-1C,Patient32,Sample1,Sensitive,Sensitive
+032-2P-1,Patient32,Sample2,Sensitive,Sensitive
+032-4-m,Patient32,Sample3,Sensitive,Sensitive
+033-1P-1,Patient33,Sample1,Sensitive,Sensitive
+033-2P-1,Patient33,Sample2,Sensitive,Sensitive
+033-3P-1,Patient33,Sample3,Sensitive,Sensitive
+033-4-m,Patient33,Sample4,Sensitive,Sensitive
+034-1P-1,Patient34,Sample1,Sensitive,Sensitive
+034-3-m,Patient34,Sample2,Sensitive,Sensitive
+035-1P-1,Patient35,Sample1,Sensitive,Sensitive
+035-3-m,Patient35,Sample2,Sensitive,Sensitive
