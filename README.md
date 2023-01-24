@@ -1,5 +1,4 @@
-# HighRETGDNF
-High RET Expression is Associated with Worse Survival and MAPK Activation in Estrogen Receptor Positive Breast Cancer
+# High RET Expression is Associated with Worse Survival and MAPK Activation in Estrogen Receptor Positive Breast Cancer
 
 
 Links to matrices:
